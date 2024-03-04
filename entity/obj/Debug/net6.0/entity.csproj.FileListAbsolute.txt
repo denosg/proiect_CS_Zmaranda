@@ -1,0 +1,12 @@
+D:\WorkspaceCS\POS\entity\bin\Debug\net6.0\entity.deps.json
+D:\WorkspaceCS\POS\entity\bin\Debug\net6.0\entity.dll
+D:\WorkspaceCS\POS\entity\bin\Debug\net6.0\entity.pdb
+D:\WorkspaceCS\POS\entity\obj\Debug\net6.0\entity.csproj.AssemblyReference.cache
+D:\WorkspaceCS\POS\entity\obj\Debug\net6.0\entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkspaceCS\POS\entity\obj\Debug\net6.0\entity.AssemblyInfoInputs.cache
+D:\WorkspaceCS\POS\entity\obj\Debug\net6.0\entity.AssemblyInfo.cs
+D:\WorkspaceCS\POS\entity\obj\Debug\net6.0\entity.csproj.CoreCompileInputs.cache
+D:\WorkspaceCS\POS\entity\obj\Debug\net6.0\entity.dll
+D:\WorkspaceCS\POS\entity\obj\Debug\net6.0\refint\entity.dll
+D:\WorkspaceCS\POS\entity\obj\Debug\net6.0\entity.pdb
+D:\WorkspaceCS\POS\entity\obj\Debug\net6.0\ref\entity.dll

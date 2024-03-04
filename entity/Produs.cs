@@ -1,7 +1,10 @@
 ﻿namespace entity
 {
-    public class Class1
+    public class Produs
     {
-
+        public uint Id { get; set; }
+        public string? Nume { get; set; }
+        public string? CodIntern { get; set; }
+        public string? Producator { get; set; }
     }
 }
